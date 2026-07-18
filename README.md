@@ -1,2 +1,4 @@
 # The-Emulation
 Author’s Note: If you’re looking at this, I assume you at least have some intention of reading the actual story, so thank you for that. It took a lot of time and effort to write this, so it really means a lot to me that you are taking the time to read it. If you enjoyed this story and want to learn more about some of these topics, I highly recommend Superintelligence: Paths, Dangers, Strategies by Nick Bostrom. That book at least partially inspired many of the ideas in this story, and it of course goes into much greater depth. I will stop here, and beyond is the actual story.
+
+P.S. Please turn on wrap lines. It looks rather strange without this.
